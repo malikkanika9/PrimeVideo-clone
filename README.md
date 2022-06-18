@@ -10,7 +10,7 @@ An Individual project built by me in 5 days.
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience]()
+- Deployed Link:- [Enjoy the Experience](https://amazonprimevideoclone.netlify.app)
 
 ## How to get Started 🚀
 
