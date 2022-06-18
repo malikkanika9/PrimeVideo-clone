@@ -17,7 +17,7 @@ export const AllRoutes = () => {
       <Route exact path="/" element={<Homepage />} />
       <Route exact path="/signin" element={<CreateAccount />} />
      <Route exact path="/payment_page" element={<PaymentPage />} />
-    <Route exact path="/signin" element={<CreateAccount />} />
+      <Route exact path="/signin" element={<CreateAccount />} />
       <Route exact path="/login" element={<Login />} />
       <Route exact path="/homepage" element={<HomepageAfter />} />
       <Route exact path="/movies" element={<Movies/>} />

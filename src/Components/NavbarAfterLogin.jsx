@@ -93,10 +93,11 @@ if(result==undefined)
               >
                 <div className="textLink">TV Shows</div>
               </Link>
+              
             </div>
             
             <div className="navLinks">
-              <a
+              {/* <a
                 href="/movies"
                 style={{
                   color: "rgba(242, 244, 246, 0.9)",
@@ -104,7 +105,17 @@ if(result==undefined)
                 }}
               >
                 <div className="textLink">Movies</div>
-              </a>
+              </a> */}
+               <Link
+                to={`/movies`}
+                style={{
+                  color: "rgba(242, 244, 246, 0.9)",
+                  textDecoration: "none",
+                }}
+              >
+                <div className="textLink">Movies</div>
+              </Link>
+              
             </div>
           </div>
         </div>

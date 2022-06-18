@@ -39,6 +39,7 @@ function Banner() {
              alert(error.message)
            });
     }
+  
     // console.log("kanika")
 }
   return (
